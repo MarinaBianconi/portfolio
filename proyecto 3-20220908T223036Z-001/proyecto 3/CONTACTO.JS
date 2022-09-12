@@ -1,3 +1,4 @@
+
 function validarContacto(){
    let contactoNombre = document.getElementById("contactoNombre").value;
    let contactoEmail = document.getElementById ("contactoEmail").value;
@@ -13,7 +14,7 @@ function validarContacto(){
     //document.getElementById("contactoNombre").className = "form-control is valid"
     //document.getElementById("contactoEmail").className = "form-control is-valid"
     //document.getElementById("contactoComentario").className = "form-control is-valid"
-   //}
+   //}m  s +
 //}
 if (contactoNombre ===""){
     //alert("Falta completar nombre")
